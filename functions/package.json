@@ -17,7 +17,7 @@
     "sharp": "0.35.3"
   },
   "devDependencies": {
-    "firebase": "12.17.1",
+    "firebase": "12.19.0",
     "firebase-tools": "15.27.0"
   },
   "overrides": {
